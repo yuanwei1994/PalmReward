@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3625F72C9863DA5ABBD90D390A70E6E6D259ED6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F2FE2E25B8BF9C0F126CD349F93F34FA335BD467" : 9223372036854775807,
+    "3625F72C9863DA5ABBD90D390A70E6E6D259ED6B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "00695EF1-EB54-4333-9843-82F60648BA5A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F2FE2E25B8BF9C0F126CD349F93F34FA335BD467" : "..\/Documents\/iOS%E5%AD%A6%E4%B9%A0\/%E9%A1%B9%E7%9B%AE%E4%BA%8C\/%E9%A1%B9%E7%9B%AE%E4%BA%8C",
+    "3625F72C9863DA5ABBD90D390A70E6E6D259ED6B" : "PalmReward\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PalmReward",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PalmReward\/PalmReward.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:zjylxr\/PalmReward.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3625F72C9863DA5ABBD90D390A70E6E6D259ED6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:zjylxr\/YDClickToHelp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F2FE2E25B8BF9C0F126CD349F93F34FA335BD467"
+    }
+  ]
+}

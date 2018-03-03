@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - DGActivityIndicatorView (2.1)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - RongCloudIMKit (2.7.3)
+  - TZImagePickerController (1.7.1)
+  - VTMagic (1.2.4):
+    - VTMagic/Core (= 1.2.4)
+  - VTMagic/Core (1.2.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - DGActivityIndicatorView
+  - MJExtension (~> 3.0.13)
+  - MJRefresh (~> 3.1.12)
+  - RongCloudIMKit (~> 2.7.3)
+  - TZImagePickerController (~> 1.7.1)
+  - VTMagic
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  DGActivityIndicatorView: 1942ae657a8d247c035f229422b2d15a8adbe5b6
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  RongCloudIMKit: 0b93700b17d224c7c213815b8a23a9c356fe20e2
+  TZImagePickerController: cbfd57ba947263759b860f74132dd1bc33125afc
+  VTMagic: b49e5f456dbcbfd9a3588ba92417233a105bc193
+
+PODFILE CHECKSUM: ccae9e509f9893c13d20ade8d272b8035231b88f
+
+COCOAPODS: 1.1.1

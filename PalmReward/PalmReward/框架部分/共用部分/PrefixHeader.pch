@@ -1,0 +1,35 @@
+//
+//  PrefixHeader.pch
+//  PalmReward
+//
+//  Created by rimi on 16/12/7.
+//  Copyright © 2016年 zjy. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#pragma mark -- 定义Block
+//自定义按钮 Block
+typedef void(^PRButtonBlock)(id sender);
+//自定义tableView Block
+typedef void(^PRUITableViewBlock)(id tableView);
+//自定义ImageView Block
+typedef void(^PRUIimageViewBlock)(id imageView);
+//#import <BFKit.h>
+#import <VTMagic.h>
+#import "Adaption.h"
+#import <MJRefresh.h>
+#import "PRBaseRequest.h"
+#import "PRURL.h"
+#import <MJExtension/MJExtension.h>
+#import "PRUserModel.h"
+#import "NSString+PRString.h"
+#import "PRBaseViewController.h"
+#import "PRTaskModel.h"
+#import "PRConfig.h"
+//动画组
+#import "DGActivityIndicatorView.h"
+
+#endif /* PrefixHeader_pch */
